@@ -1,0 +1,4 @@
+mode: set
+test-go/base/utils.go:3.25,4.12 1 1
+test-go/base/utils.go:7.2,7.15 1 1
+test-go/base/utils.go:4.12,6.3 1 1
